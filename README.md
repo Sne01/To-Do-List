@@ -21,7 +21,7 @@
 - tasks {an array}
   
 - task {done, text, id}
-- 
+  
 #### Functions (in code)
 
 - addTodo
